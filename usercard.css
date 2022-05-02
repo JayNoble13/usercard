@@ -1,0 +1,64 @@
+.container {
+    width: 450px;
+    height: 295px;
+    margin: auto;
+    background-color: white;
+    outline-style: solid;
+    outline-color: grey;
+    outline-width: 3px;
+}
+
+.top {
+    padding: 20px;
+    width: 410px;
+    height: 30px;
+    background-color: skyblue;
+}
+
+.user {
+    width: 65px;
+    height: 65px;
+    padding-top: 20px;
+}
+
+h1 {
+    padding-top: 15px;
+    padding-left: 15px;
+    margin-bottom: -10px;
+}
+
+.map {
+    height: 20px;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.seattle{
+    display: inline-flex;
+    width: 100px;
+    margin-bottom: -100px;
+
+}
+
+#city {
+    font-size: larger;
+    font-style: normal;
+    margin-left: 10px;
+}
+
+.about {
+    margin-left: 15px;
+}
+
+.prof {
+    display: inline-flex;
+}
+
+.gear {
+    height: 15px;
+    margin-left: 15px;
+}
+
+a {
+    padding-left: 5px;
+}
